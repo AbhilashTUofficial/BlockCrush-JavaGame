@@ -6,7 +6,6 @@ A GUI java retro block crush game
 |<img align="left" alt="BlockCrush Game" width="200px" src="./Img/1.png">|<img align="left" alt="BlockCrush Game" width="200px" src="./Img/2.png">|<img align="left" alt="BlockCrush Game" width="200px" src="./Img/3.png">|
 
 <br/>
-
 ### Languages & tools :
 [<img align="left" alt="Intellij" width="26px" src="./Icons/intellij.png">][java]
 [<img align="left" alt="Java" width="26px" src="./Icons/java.png">][java]
