@@ -6,6 +6,7 @@ A GUI java retro block crush game
 |<img align="left" alt="BlockCrush Game" width="200px" src="./Img/1.png">|<img align="left" alt="BlockCrush Game" width="200px" src="./Img/2.png">|<img align="left" alt="BlockCrush Game" width="200px" src="./Img/3.png">|
 
 <br/>
+
 ### Languages & tools :
 [<img align="left" alt="Intellij" width="26px" src="./Icons/intellij.png">][java]
 [<img align="left" alt="Java" width="26px" src="./Icons/java.png">][java]
@@ -60,17 +61,6 @@ A GUI java retro block crush game
 <br/>
 
 [website]: https://abhilashtuofficial.github.io/
-[youtube]: https://www.youtube.com/channel/UC8iP2LKB-V1g2jMTbe6Pb4Q
-[instagram]: https://www.instagram.com/abhilash_tu/
-[linkdein]: https://www.linkedin.com/in/abhilash-tu-160630190/
-[vscode]: https://code.visualstudio.com/
-[github]: https://github.com/AbhilashTUofficial
-[web]: https://github.com/AbhilashTUofficial/Web-development
-[js]: https://github.com/AbhilashTUofficial/JavaScript-programming
-[python]: https://github.com/AbhilashTUofficial/Python-programming
-[dart]: https://github.com/AbhilashTUofficial/CloneApps
-[c/c++]: https://github.com/AbhilashTUofficial/Cpp-programming
-[flutter]: https://github.com/AbhilashTUofficial/CloneApps
 [java]: https://github.com/AbhilashTUofficial/java-programming
-[android]: https://github.com/AbhilashTUofficial/CloneApps
-[behance]: https://www.behance.net/abhilashstorm
+
+
